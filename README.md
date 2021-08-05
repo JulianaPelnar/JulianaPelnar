@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JulianaPelnar
+- 👀 I’m interested in back-end development mostly
+- 🌱 I’m currently learning .Net Core, Kafka and Docker
+- 💞️ I’m looking to collaborate on web projects, but I don't feel like I know enough
+- 📫 How to reach me: julianapelnar@gmail.com
