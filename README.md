@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JulianaPelnar
 - 👀 I’m interested in back-end development mostly
 - 🌱 I’m currently reading books on computer science projects, to organize my knowledge
-- 💞️ I’m looking to collaborate on web projects, but I don't feel like I know enough
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me: julianapelnar@gmail.com
